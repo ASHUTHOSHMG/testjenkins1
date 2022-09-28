@@ -13,4 +13,6 @@ We can try sample pipeline script and it gives out the sample script where we ne
 In between in order to generate the pipeline script for the different stages like checkout and build where we are integrating our github with Jenkins, we need to click on the pipeline syntax option and select 'checkout: Checkout from Version Control' option from the sample step and give our github repository link and generate pipeline script, copy the code and paste it back in the code section.
 Second time in the pipeline syntax option in order to build the script we need to select 'git:Git' and then generate the syntax.
 And at the last we also need to mention the windows batch command, for that again select pipeline syntax and select 'bat: Windows Batch Script' as the sample step and run the pipeline script.
+![image](https://user-images.githubusercontent.com/65459598/192905037-0255f846-098d-4fe5-86ed-df24bda993e9.png)
+
 Finally we apply and save the changes and then build the pipeline.
