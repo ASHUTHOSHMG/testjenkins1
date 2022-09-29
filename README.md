@@ -1,5 +1,7 @@
 # testjenkins1
 How to use it 
+# Python Script
+Including email of receiver and sender, email server configuration for gmail is smtp.
 # Github
 In my Github repository - https://github.com/ASHUTHOSHMG/testjenkins1.git
 Find the file 'Jenkinstest.py' which contains python script to automate the mail sending to the recipent
