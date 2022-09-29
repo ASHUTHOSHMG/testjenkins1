@@ -21,3 +21,5 @@ Finally we apply and save the changes and then build the pipeline.
 
 ![image](https://user-images.githubusercontent.com/65459598/192974378-6a3881f5-5e0f-4025-a8df-6b3360400232.png)
 
+The test email received
+![image](https://user-images.githubusercontent.com/65459598/192976300-d8137919-ac7a-4e51-9a42-c742d386137b.png)
