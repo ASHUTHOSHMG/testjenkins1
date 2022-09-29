@@ -18,3 +18,6 @@ And at the last we also need to mention the windows batch command, for that agai
 ![image](https://user-images.githubusercontent.com/65459598/192905037-0255f846-098d-4fe5-86ed-df24bda993e9.png)
 
 Finally we apply and save the changes and then build the pipeline.
+
+![image](https://user-images.githubusercontent.com/65459598/192974378-6a3881f5-5e0f-4025-a8df-6b3360400232.png)
+
